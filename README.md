@@ -59,6 +59,9 @@ At Onile Nature Spa, we believe in the power of nature to heal and restore. Our 
 
 **HEALTH BOT**:
 
+![image](https://github.com/Medisetti-Nandini2003/Nature_spa/assets/103932228/2bc96055-a4c7-4782-9adc-4be5836025d2)
+
+
 
 # TECH STACK
 
